@@ -1,0 +1,9 @@
+.color{
+    color: black;
+    background-color: white;
+}
+
+.noColor{
+    color: white;
+    background-color: black;
+}
